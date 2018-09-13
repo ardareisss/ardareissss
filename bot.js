@@ -51,4 +51,4 @@ const embed = new Discord.RichEmbed()
 
 });
 
-disco.login(config.token);
+disco.login(process.env.BOT_TOKEN);
