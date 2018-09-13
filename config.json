@@ -1,0 +1,7 @@
+{
+  "token" : "NDg5NzY1NjQ3MjY2MzQ5MDY2.Dnvhbg.5autPkPpKpQJFwT5pIOEbFLn9Uo",
+  "ms" : 1500,
+  "roleToDisco" : ["disko"],
+  "prefix" : "r!",
+  "allowedUsers" : ["your user id goes here", "(optional) another user id goes here"]
+}
